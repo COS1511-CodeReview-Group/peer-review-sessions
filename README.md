@@ -68,7 +68,7 @@ This group is run by `COS1511 - Introduction to Programming` students at Univers
 Feel free to invite coursemates who are committed to improving their skills!
 
 For questions, reach out to the repo maintainer or start a 
-[Dissusion](https://github.com/COS1511-CodeReview-Group-org/discussion).
+[Dissusion](https://github.com/COS1511-CodeReview-Group/peer-review-sessions/discussions).
 
 ---
 
